@@ -1,5 +1,5 @@
 {% set name = "pytest-reverse" %}
-{% set version = "1.4.0" %}
+{% set version = "1.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 1695b7c9e51b28db5af13d579b33b54a80958d86b886dfabd2a246bcad3e082e
+  sha256: 71952dbcc09d0bbed88af33dab2d540298325cc6193a00b4bb037f380041d680
 
 build:
   noarch: python
