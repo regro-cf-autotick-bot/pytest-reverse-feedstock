@@ -7,6 +7,8 @@ Home: https://github.com/adamchainz/pytest-reverse
 
 Package license: MIT
 
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-reverse-feedstock/blob/main/LICENSE.txt)
+
 Summary: Pytest plugin to reverse test order.
 
 Development: https://github.com/adamchainz/pytest-reverse
