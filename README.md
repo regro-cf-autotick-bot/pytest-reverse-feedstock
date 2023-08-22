@@ -1,5 +1,7 @@
-About pytest-reverse
-====================
+About pytest-reverse-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-reverse-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/adamchainz/pytest-reverse
 
